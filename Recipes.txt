@@ -9,10 +9,14 @@ first recipe is : Dal Dhokli
 
 now its time to add some soup recipes.
 
+avoid sweet soup
+
 1. Tomato Soupe
 2. Munchow Soup
 3. CornChili Soup
 
 Thank you for now
+
+Next turn is sweet food
 
 
