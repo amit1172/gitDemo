@@ -7,4 +7,12 @@ first recipe is : Dal Dhokli
 2nd is : Kheer
 3rd is : Daal-Bhaat
 
+now its time to add some soup recipes.
+
+1. Tomato Soupe
+2. Munchow Soup
+3. CornChili Soup
+
 Thank you for now
+
+
